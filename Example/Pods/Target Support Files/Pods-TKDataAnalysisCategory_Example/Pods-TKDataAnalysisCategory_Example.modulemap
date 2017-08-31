@@ -1,0 +1,6 @@
+framework module Pods_TKDataAnalysisCategory_Example {
+  umbrella header "Pods-TKDataAnalysisCategory_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
